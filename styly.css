@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300|Playfair+Display:700&display=swap&subset=latin-ext');
+
+html {
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+}
+
+h1,
+
+h2 {
+  color: aliceblue;
+  font-family: 'Playfair Display', serif;
+}
+
+body {
+  background-color: blanchedalmond;
+}
+
+h1 {
+  color: darkgoldenrod;
+}
+
+p {
+  color: lightseagreen;
+}
